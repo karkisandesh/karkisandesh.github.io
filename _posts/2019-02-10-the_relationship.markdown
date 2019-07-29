@@ -1,9 +1,19 @@
 ---
 layout: post
-title:      "the Relationship"
-date:       2019-02-10 05:06:25 +0000
+title:      "project CLI portfolio"
+date:       2019-02-10 00:06:26 -0500
 permalink:  the_relationship
 ---
 
+Finally completed my CLI portfolio project, it was a hard work and took little 
+over months, that has more to do with me finding times for the project.  But 
+finally completed after almost more than a month.  When I first started, I felt 
+like coding was easy, seeing the videos or mentor explaining you, but it was 
+not like that.  Seems like coding is more to do with practice, the more you practice
+the more you know about it.  Also, using the pry has really helped me to understand
+and grasp a deep knowledge what I am really doing with.  
 
-I have been learning programming for a couple of months now.  Even though I was interested in programming much earlier, and I tried my hands before too, but this is the first time I have come this far, and every lesson learn is amazing and how much it relates to ones' life.  There are many places where programming teaches what life should be like, how things should be taken, how to set goals, work on them, figure out what has gone wrong, work on it until you will find a way, you will surely find a way, there may be other ways but there will be a way to get past the problem.  There are small details which often we overlook in life, programming teaches us how small details are related to big issues and to fix them attention to small details are must.  Success does not come without failure either in programming  or in real world, we are bound to fail, and we will fail definitely.  To get through the failures, we need patience, dedication, and determination, work on the failures, there is no escape besides working on them.  Embracing the failure is how we will move forward, get a step closer to our goal.
+My project was about a scraper app that scrapes a movie website about the 
+upcoming movies and the release date.  It will ask the user about the movies, 
+to choose an index of the movie which the user wants the details about, and finally
+outputs the details.
