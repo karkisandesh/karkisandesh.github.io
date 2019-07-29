@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Hello World"
+title:      "my CLI Project"
 date:       2019-02-01 11:32:06 -0500
 permalink:  hello_world
 ---
